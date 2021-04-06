@@ -1,5 +1,24 @@
+body {
+  background-color: #111111 !important;
+}
+
 .App {
+  background-image:url(bcg.jpeg) ;
+  
+}
+
+.App-loader-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-loader-box {
+  position: relative;
   text-align: center;
+  max-width: 100%;
+  height: auto;
 }
 
 .App-logo {
@@ -14,25 +33,82 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-family: fantasy;
+  font-size: calc(22px + 2vmin);
+  color: #ffffff;
+  padding-left: 16px;
+  text-align: left;
+  margin-left: 5px;
 }
 
 .App-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-filter-card {
+  margin-top: 20px;
+  width: 18rem;
+  margin-bottom: 15px;
 }
+
+.App-filter-header {
+  margin-top: 10px;
+  color: #111111;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.App-filter-heading {
+  text-align: center !important;
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.App-filter-heading-launch-year {
+  text-align: center !important;
+  font-size: 15px;
+}
+
+.App-filters-hr {
+  margin: 0.4rem;
+}
+
+.App-filter-button-container {
+  padding-top: 25px;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.App-filter-button-container1 {
+  
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.App-Developers-name {
+  text-align: center !important;
+}
+
+.App-filter-button {
+  color:black;
+  flex: 0 40%;
+  margin: 10px;
+  border-color: black;
+  
+}
+.App-filter-button:hover {
+  color:white;
+  color: black;
+  flex: 0 40%;
+  margin: 10px;
+  border-color: black;
+  
+}
+
