@@ -10,7 +10,7 @@ function RocketLaunchDetails({ details }) {
     launch_year,
     launch_success,
     links,
-    rocket,
+    rocket
   } = details;
   const imgSrc = links.mission_patch_small;
   const land_success = rocket.first_stage.cores[0].land_success;

@@ -5,7 +5,7 @@
 
 ### Step 2:
 - Clone the code using the
-[Link](https://github.com/PratyakshMathur/Donation-Nation.git)
+[Link](https://github.com/PratyakshMathur/fleo-app.git)
 
 ### Step 3:
 - Open terminal in the project folder and type the following command <code> npm i</code>
