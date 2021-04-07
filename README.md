@@ -1,4 +1,6 @@
-## Requirements to run the code :
+### link to my site
+[link](https://fleo-app.netlify.app/)
+### Requirements to run the code :
 
 ### Step 1:
 - Download and Install Nodejs from [Link](https://nodejs.org/en/download/)
@@ -13,3 +15,14 @@
 ### All set to run the code
 - Run the code by typing <code> npm start </code>
 - The app will start running at [localhost:3000](localhost:3000)
+
+### To Host the site with you url from netlify
+- Run <code> npm run build </code> in your terminal
+- follow [netlify](https://docs.netlify.com/cli/get-started/) steps from now onwards 
+
+### This code includes spacex launch programms api but you can find all api at 
+- Find your [Api](https://github.com/r-spacex/SpaceX-API)
+- My [api](https://api.spaceXdata.com/v3/launches?limit=100)
+
+### Screenshots of my site
+[Alt text](/reaadme0.png?raw=true "Optional Title")
