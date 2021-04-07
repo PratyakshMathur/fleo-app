@@ -24,6 +24,13 @@
 - Find your [Api](https://github.com/r-spacex/SpaceX-API)
 - My [api](https://api.spaceXdata.com/v3/launches?limit=100)
 
+### I used a simple approch to disgn this project via react.js 
+### Spacex Api does a lot of the things we just have to fetch the data
+### Hosted my site on netlify to broaden my learning experience 
+### I kept updating the api when applying the filter so that endpoints of api will change
+### Used bootstrap for making my webpage responsive
+### maid a function called rocketlaunch in which all the fetched data is stored.
+
 ### Screenshots of my site
 ![ScreenShot](https://raw.github.com/PratyakshMathur/fleo-app/main/reaadme0.png)
 ![ScreenShot](https://raw.github.com/PratyakshMathur/fleo-app/main/reaadme1.png)
