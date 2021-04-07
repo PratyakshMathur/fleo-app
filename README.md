@@ -25,4 +25,4 @@
 - My [api](https://api.spaceXdata.com/v3/launches?limit=100)
 
 ### Screenshots of my site
-[Alt text](/reaadme0.png?raw=true "Optional Title")
+![ScreenShot](https://raw.github.com/PratyakshMathur/fleo-app/main/reaadme0.png)
