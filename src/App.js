@@ -67,9 +67,11 @@ class App extends Component {
     const uniqueLaunchYears = new Array(16).fill(0).map((_, index) => 2006 + index);
 
     if (!isLoaded) {
-      return <div className="App-loader-container">
-        <div className="App-loader-box">
+      return <div className="App-loader-container container ">
+        <div className= "row">
+        <div className="App-loader-box col-xs-12 col-xl-12">
           <img src={loader} alt="loading..." />
+        </div>
         </div>
       </div>
     }
