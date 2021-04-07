@@ -6,7 +6,6 @@ function RocketLaunchDetails({ details }) {
   const {
     flight_number,
     mission_name,
-    mission_id,
     launch_year,
     launch_success,
     links,
