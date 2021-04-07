@@ -26,3 +26,6 @@
 
 ### Screenshots of my site
 ![ScreenShot](https://raw.github.com/PratyakshMathur/fleo-app/main/reaadme0.png)
+![ScreenShot](https://raw.github.com/PratyakshMathur/fleo-app/main/reaadme1.png)
+![ScreenShot](https://raw.github.com/PratyakshMathur/fleo-app/main/reaadme2.png)
+![ScreenShot](https://raw.github.com/PratyakshMathur/fleo-app/main/reaadme3.png)
