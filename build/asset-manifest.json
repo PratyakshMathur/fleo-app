@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.c317ca7f.chunk.css",
-    "main.js": "/static/js/main.46de5778.chunk.js",
-    "main.js.map": "/static/js/main.46de5778.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.adc9b627.js",
-    "runtime-main.js.map": "/static/js/runtime-main.adc9b627.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.0b0964bb.chunk.js": "/static/js/2.0b0964bb.chunk.js",
-    "static/js/2.0b0964bb.chunk.js.map": "/static/js/2.0b0964bb.chunk.js.map",
+    "main.css": "/static/css/main.0af3a070.chunk.css",
+    "main.js": "/static/js/main.1f501998.chunk.js",
+    "main.js.map": "/static/js/main.1f501998.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f1ae2f61.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f1ae2f61.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.83e44b37.chunk.js": "/static/js/2.83e44b37.chunk.js",
+    "static/js/2.83e44b37.chunk.js.map": "/static/js/2.83e44b37.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ff6dcd62b9fae88bb5302f95ef9376fe.js": "/precache-manifest.ff6dcd62b9fae88bb5302f95ef9376fe.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.c317ca7f.chunk.css.map": "/static/css/main.c317ca7f.chunk.css.map",
-    "static/js/2.0b0964bb.chunk.js.LICENSE.txt": "/static/js/2.0b0964bb.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/bcg.d60ee163.jpeg",
-    "static/media/loadRocket.gif": "/static/media/loadRocket.796b9d1c.gif"
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.0af3a070.chunk.css.map": "/static/css/main.0af3a070.chunk.css.map",
+    "static/js/2.83e44b37.chunk.js.LICENSE.txt": "/static/js/2.83e44b37.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bcg.ef9eac62.jpeg",
+    "static/media/loadRocket.73425c9f.gif": "/static/media/loadRocket.73425c9f.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.adc9b627.js",
-    "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.0b0964bb.chunk.js",
-    "static/css/main.c317ca7f.chunk.css",
-    "static/js/main.46de5778.chunk.js"
+    "static/js/runtime-main.f1ae2f61.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.83e44b37.chunk.js",
+    "static/css/main.0af3a070.chunk.css",
+    "static/js/main.1f501998.chunk.js"
   ]
 }
